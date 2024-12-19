@@ -1,3 +1,3 @@
-# Purpose of this Folder
+# Clustering Starter Files
 
-This folder should contain the starter code and instructions for the exercise.
+This folder contains the starter files for the clustering exercise.
